@@ -1,0 +1,4 @@
+Izvrsio sam sistemsko testiranje po sistemu crne kutije fajla pod nazivom Calculator.java, i tom prilikom utvrdio sledece:
+Program ima nedostatak prilikom mnozenja sa nulom, jer tom prilikom ne ispisuje jasnu poruku sta se desilo nego izbacuje
+sistemsku poruku umesto jasnog obavestenja da nije moguce deljenje nulom,
+Drugih nedostataka nije bilo prilikom mog testiranja.
